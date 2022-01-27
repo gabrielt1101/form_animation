@@ -6,6 +6,8 @@ This site demonstrates a styling effect that can be used for login pages.
 
 ## About
 
-The form animation is a swift, but captivating animation that sweeps up the wo
+The form animation is a swift, but captivating animation that sweeps up the email and password placeholders in a way that invites the user into logging in.
+
+If a user accidentially tries to log in without entering any information, a prompt appears to let them know that their login information is required.
 
 
